@@ -50,7 +50,8 @@ Table of contents
    filter_bubbles.rst
    light_client.rst
    smart_contracts.rst
-   obtain.rst
+   mine.rst
+   trade.rst
    events.rst
    contact.rst
 
