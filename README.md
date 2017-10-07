@@ -1,2 +1,2 @@
-# link-docs
-Documentation for Link Blockchain.
+# mix-docs
+Documentation for MIX Blockchain.
