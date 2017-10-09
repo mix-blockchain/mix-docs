@@ -2,6 +2,8 @@
 Mine LINK
 #########
 
+LINK is being rebranded as MIX.
+
 In order to publish content on the LINK network, or execute any kind of transaction, you must spend some LINK. LINK can be obtained either by mining it or by purchasing it.
 
 You need to have a LINK account. If you do not have one already, go to the LINK console and run ``personal.newAccount();``.
