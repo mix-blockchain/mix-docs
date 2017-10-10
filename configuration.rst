@@ -18,7 +18,7 @@ RPC TLS Port: 8647
 
 .. code::
 
-    git clone https://github.com/link-blockchain/link-blockchain.git
+    git clone https://github.com/mix-blockchain/mix-blockchain.git
 
 MIX Blockchain can be synchronized with either Geth or Parity:
 
@@ -46,7 +46,7 @@ Install Parity as described here: https://parity.io/parity.html
 Netstats
 --------
 
-To have your node listed on http://stats.link-blockchain.org/ do the following (requires `Node.js <https://nodejs.org/en/>`_):
+To have your node listed on https://stats.mix-blockchain.org/ do the following (requires `Node.js <https://nodejs.org/en/>`_):
 
 .. code::
 
@@ -69,7 +69,7 @@ Edit app.json::
            "CONTACT_DETAILS" : "",
     -      "WS_SERVER"       : "wss://rpc.ethstats.net",
     -      "WS_SECRET"       : "see http://forum.ethereum.org/discussion/2112/how-to-add-yourself-to-the-stats-dashboard-its-not-automatic",
-    +      "WS_SERVER"       : "wss://stats.link-blockchain.org",
+    +      "WS_SERVER"       : "wss://stats.mix-blockchain.org",
     +      "WS_SECRET"       : "welcometothelinkedworld",
            "VERBOSITY"       : 2
          }

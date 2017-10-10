@@ -13,29 +13,29 @@ The blockchain was activated on Thursday 27th April 2017 09:15:23 AM (UTC).
 Useful links
 ------------
 
-* `Homepage <https://www.link-blockchain.org/>`_
+* `Homepage <https://www.mix-blockchain.org/>`_
 
 * `Blog <https://blog.link-blockchain.org/>`_
 
-* `Twitter <https://twitter.com/link_blockchain>`_
+* `Twitter <https://twitter.com/mix_blockchain>`_
 
-* `Reddit <https://www.reddit.com/r/link_blockchain/>`_
+* `Reddit <https://www.reddit.com/r/mix_blockchain/>`_
 
-* `Gitter <https://gitter.im/link-blockchain/link-blockchain>`_
+* `Gitter <https://gitter.im/mix-blockchain>`_
 
 * `YouTube <https://www.youtube.com/channel/UCkvRVEWnTPWWYJQqPbYwyiw>`_
 
 * `BitChute <https://www.bitchute.com/channel/link_blockchain/>`_
 
-* `Block explorer <http://blocks.link-blockchain.org/>`_
+* `Block explorer <https://blocks.mix-blockchain.org/>`_
 
-* `Network stats <http://stats.link-blockchain.org/>`_
+* `Network stats <https://stats.mix-blockchain.org/>`_
 
 * `Solidity APIs <http://solidity-apis.link-blockchain.org/>`_
 
-* `Issue tracker <https://github.com/link-blockchain/link-blockchain/issues>`_
+* `Issue tracker <https://github.com/mix-blockchain/mix-blockchain/issues>`_
 
-* `Logo <https://github.com/link-blockchain/link-logo>`_
+* `Logo <https://github.com/mix-blockchain/mix-logo>`_
 
 Table of contents
 -----------------

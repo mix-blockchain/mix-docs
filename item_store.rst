@@ -8,9 +8,9 @@ Item Store is the principle smart contract system for MIX. All base content is r
 Useful links
 ------------
 
-* `Source code <https://github.com/link-blockchain/link-item-store>`_
+* `Source code <https://github.com/mix-blockchain/mix-item-store>`_
 
-* `Issue tracker <https://github.com/link-blockchain/link-item-store/issues>`_
+* `Issue tracker <https://github.com/mix-blockchain/mix-item-store/issues>`_
 
 Properties
 ----------
@@ -74,7 +74,7 @@ Deployments
 
 All current deployments of Item Store contracts on MIX were compiled with Solidity 0.4.16 with optimizations enabled.
 
-Git hash: ``b517451720bcb59d8f731974dfebf80d2ade57d1`` `link <https://github.com/link-blockchain/link-item-store/tree/b517451720bcb59d8f731974dfebf80d2ade57d1>`_
+Git hash: ``b517451720bcb59d8f731974dfebf80d2ade57d1`` `link <https://github.com/mix-blockchain/mix-item-store/tree/b517451720bcb59d8f731974dfebf80d2ade57d1>`_
 
 
 ItemStoreRegistry contract address: ``0x3ea61ec502f053ee89b906fdc3abe2e5f9eb4a7f``
