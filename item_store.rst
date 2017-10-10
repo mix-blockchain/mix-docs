@@ -3,7 +3,7 @@
 Item Store
 ==========
 
-Item Store is the principle smart contract system for LINK. All base content is registered with Item Store. `IPFS <https://ipfs.io/>`_ is used as the storage layer.
+Item Store is the principle smart contract system for MIX. All base content is registered with Item Store. `IPFS <https://ipfs.io/>`_ is used as the storage layer.
 
 Useful links
 ------------
@@ -72,7 +72,7 @@ Each item has a 20 byte itemId that is unique to the contract that generated it.
 Deployments
 -----------
 
-All current deployments of Item Store contracts on LINK were compiled with Solidity 0.4.16 with optimizations enabled.
+All current deployments of Item Store contracts on MIX were compiled with Solidity 0.4.16 with optimizations enabled.
 
 Git hash: ``b517451720bcb59d8f731974dfebf80d2ade57d1`` `link <https://github.com/link-blockchain/link-item-store/tree/b517451720bcb59d8f731974dfebf80d2ade57d1>`_
 

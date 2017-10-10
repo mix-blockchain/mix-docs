@@ -8,9 +8,9 @@ Deployment address: ``0x99be57fca49270b69306cdbe89df416d769dbd06``
 Solidity 0.4.16 with optimizations.
 
  
-Every item of content stored on LINK is composed of one or more mixins. Examples of potential content types are tweets, comments, blog posts, media metadata and user profiles.
+Every item of content stored on MIX is composed of one or more mixins. Examples of potential content types are tweets, comments, blog posts, media metadata and user profiles.
 
-LINK has a hierarchical system of mixins. There is a `root mixin <https://github.com/link-blockchain/link-root-mixin-schema/tree/c578af35b77246027beebb004a65b951475f577e>`_ that all other mixins are derived from.
+MIX has a hierarchical system of mixins. There is a `root mixin <https://github.com/link-blockchain/link-root-mixin-schema/tree/c578af35b77246027beebb004a65b951475f577e>`_ that all other mixins are derived from.
 
 Each mixin is identified by an integer, the mixinId. The mixinId for each mixin is issued by the Mixin Registry smart contract. The mixinId of the root mixin is 0.
 

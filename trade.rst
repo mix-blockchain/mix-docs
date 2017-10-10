@@ -1,8 +1,6 @@
 ##########
-Trade LINK
+Trade MIX
 ##########
-
-LINK is being rebranded as MIX.
 
 It is available to trade on https://c-cex.com/ :
 

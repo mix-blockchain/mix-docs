@@ -4,11 +4,11 @@
 Issuance
 ########
 
-Project revenue of 55 million LINK (equivalent to 5 years of mining) is pre-allocated into the :ref:`revenue` smart contract. It will release it over 2000 days at a rate that decreases every 200 days.
+Project revenue of 55 million MIX (equivalent to 5 years of mining) is pre-allocated into the :ref:`revenue` smart contract. It will release it over 2000 days at a rate that decreases every 200 days.
 
-The purpose of the revenue is to provide funds for re-investment into the LINK ecosystem and to provide profit for the developer.
+The purpose of the revenue is to provide funds for re-investment into the MIX ecosystem and to provide profit for the developer.
 
-The block reward is the same as Ethereum. 5 LINK per block / 30k LINK per day.
+The block reward is the same as Ethereum. 5 MIX per block / 30k MIX per day.
 
 Issuance rate
 #############

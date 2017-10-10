@@ -1,14 +1,12 @@
 #########
-Mine LINK
+Mine MIX
 #########
 
-LINK is being rebranded as MIX.
+In order to publish content on the MIX network, or execute any kind of transaction, you must spend some MIX. MIX can be obtained either by mining it or by purchasing it.
 
-In order to publish content on the LINK network, or execute any kind of transaction, you must spend some LINK. LINK can be obtained either by mining it or by purchasing it.
+You need to have a MIX account. If you do not have one already, go to the MIX console and run ``personal.newAccount();``.
 
-You need to have a LINK account. If you do not have one already, go to the LINK console and run ``personal.newAccount();``.
-
-Alternatively an Ethereum account can be created with `MyEtherWallet <https://www.myetherwallet.com/>`_ and that can be used for LINK.
+Alternatively an Ethereum account can be created with `MyEtherWallet <https://www.myetherwallet.com/>`_ and that can be used for MIX.
 
 CPU Mining
 ##########
@@ -72,4 +70,4 @@ Windows
 
   EthDcrMiner64.exe -epool http://localhost:8645 -allcoins exp
 
-Here is a Claymore on Windows LINK mining tutorial: https://klmoney.wordpress.com/link-blockchain-windows-gpu-mining/
+Here is a Claymore on Windows MIX mining tutorial: https://klmoney.wordpress.com/link-blockchain-windows-gpu-mining/
