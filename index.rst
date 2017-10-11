@@ -31,8 +31,6 @@ Useful links
 
 * `Network stats <https://stats.mix-blockchain.org/>`_
 
-* `Solidity APIs <http://solidity-apis.link-blockchain.org/>`_
-
 * `Issue tracker <https://github.com/mix-blockchain/mix-blockchain/issues>`_
 
 * `Logo <https://github.com/mix-blockchain/mix-logo>`_
