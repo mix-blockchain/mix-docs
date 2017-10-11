@@ -36,4 +36,4 @@ Revenue live status
 
 .. raw:: html
 
-    <iframe width="100%" height="700" src="https://link-blockchain.github.io/link-revenue/" frameBorder="0"></iframe>
+    <iframe width="100%" height="700" src="https://mix-blockchain.github.io/mix-revenue/" frameBorder="0"></iframe>
