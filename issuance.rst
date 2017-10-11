@@ -30,10 +30,3 @@ Post-revenue inflation rate
 .. raw:: html
     
     <iframe width="700" height="300" src="https://embed.chartblocks.com/1.0/?c=5846bdf89973d267253e6049&t=ac872ee929a41c6" frameBorder="0"></iframe>
-
-Revenue live status
-###################
-
-.. raw:: html
-
-    <iframe width="100%" height="700" src="https://mix-blockchain.github.io/mix-revenue/" frameBorder="0"></iframe>
