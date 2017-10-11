@@ -15,7 +15,7 @@ Useful links
 
 * `Homepage <https://www.mix-blockchain.org/>`_
 
-* `Blog <https://blog.link-blockchain.org/>`_
+* `Blog <https://medium.com/mix-blockchain>`_
 
 * `Twitter <https://twitter.com/mix_blockchain>`_
 
