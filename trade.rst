@@ -2,9 +2,9 @@
 Trade MIX
 ##########
 
-It is available to trade on https://c-cex.com/ :
+MIX is available to trade on `C-CEX <https://c-cex.com/>`_ :
 
-- https://c-cex.com/?p=mix-btc
-- https://c-cex.com/?p=mix-ltc
-- https://c-cex.com/?p=mix-doge
-- https://c-cex.com/?p=mix-usd
+- `MIX/BTC <https://c-cex.com/?p=mix-btc>`_
+- `MIX/LTC <https://c-cex.com/?p=mix-ltc>`_
+- `MIX/DOGE <https://c-cex.com/?p=mix-doge>`_
+- `MIX/USD <https://c-cex.com/?p=mix-usd>`_
