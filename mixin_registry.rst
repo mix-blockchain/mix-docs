@@ -1,7 +1,7 @@
 Mixin Registry
 ==============
 
-`Source <https://github.com/mix-blockchain/mix-mixin-registry/blob/master/src/mix_mixin_registry.sol>`_
+`Source <https://github.com/mix-blockchain/mix-mixin-registry/blob/master/src/mixin_registry.sol>`_
 
 Deployment address: ``0x99be57fca49270b69306cdbe89df416d769dbd06``
 
