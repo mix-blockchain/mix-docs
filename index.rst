@@ -25,7 +25,7 @@ Useful links
 
 * `YouTube <https://www.youtube.com/channel/UCkvRVEWnTPWWYJQqPbYwyiw>`_
 
-* `BitChute <https://www.bitchute.com/channel/link_blockchain/>`_
+* `BitChute <https://www.bitchute.com/channel/mix-blockchain/>`_
 
 * `Block explorer <https://blocks.mix-blockchain.org/>`_
 
