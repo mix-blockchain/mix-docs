@@ -72,4 +72,7 @@ Windows
 
   EthDcrMiner64.exe -epool http://localhost:8645 -allcoins exp
 
-Here is a Claymore on Windows MIX mining tutorial: https://klmoney.wordpress.com/link-blockchain-windows-gpu-mining/
+There is great a tutorial for mining MIX with Claymore on Windows: https://klmoney.wordpress.com/link-blockchain-windows-gpu-mining/
+
+Note that at the time this tutorial was written, MIX was called LINK.
+
