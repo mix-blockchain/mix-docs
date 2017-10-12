@@ -29,10 +29,10 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
 
 .. code::
 
-    geth --config link.toml --datadir ~/.link-geth init genesis.json
-    geth --config link.toml --datadir ~/.link-geth --rpc
+    geth --config mix.toml --datadir ~/.mix-geth init genesis.json
+    geth --config mix.toml --datadir ~/.mix-geth --rpc
     # In a separate terminal launch the console.
-    geth attach ~/.link-geth/geth.ipc
+    geth attach ~/.mix-geth/geth.ipc
 
 Parity
 ------
@@ -41,7 +41,7 @@ Install Parity as described here: https://parity.io/parity.html
 
 .. code::
 
-    parity --chain link.json --port 30313 --jsonrpc-port 8645 --geth
+    parity --chain mix.json --port 30313 --jsonrpc-port 8645 --geth
 
 Netstats
 --------
