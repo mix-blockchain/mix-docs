@@ -12,18 +12,18 @@ Ethereum takes this concept much further. Computer programs called `smart contra
 
 Many big projects are deployed on the Ethereum blockchain. But this presents a problem. One must assume that every software project has fatal bugs that will need to be fixed once they are discovered. Bitcoin had fatal problems early on that needed to be fixed and so did Ethereum.
 
-Unfortunately, when the projects that are deployed on Ethereum need to be fixed they will have a very hard time because they will need to convince the entire blockchain to deploy their fix. This was the problem with The DAO crowdfunding project. An attacker stole $150m because of a bug in the smart contract. In attempting to fix this problem the Ethereum was split into two blockchains: Ethereum and Ethereum Classic.
+Unfortunately, when the projects that are deployed on Ethereum need to be fixed they will have a very hard time because they will need to convince the entire blockchain to deploy their fix. This was the problem with `The DAO <http://www.davidroon.com/the-dao-timeline/>`_ crowdfunding project. An attacker stole $150m because of a bug in the smart contract. In attempting to fix this problem the Ethereum was split into two blockchains: Ethereum and Ethereum Classic.
 
 The only purpose of the MIX blockchain is to run MIX. This means that whenever there is a problem that can only be fixed with a hard fork, it will not be difficult to convince the MIX community to adopt it.
 
 The cryptocurrency of the MIX blockchain is also called MIX.
 
-BlobStore
-=========
+Item Store
+==========
 
-The principle smart contract on the MIX blockchain is :ref:`blobstore`. It uses `IPFS <https://ipfs.io/>`_ as the underlying storage layer. Anyone can store a `blob <https://en.wikipedia.org/wiki/Binary_large_object>`_ of data and get back a :ref:`blobId`. This data is publically readable to everyone.
+The principle smart contract on the MIX blockchain is :ref:`itemstore`. It uses `IPFS <https://ipfs.io/>`_ as the underlying storage layer. Anyone can store an item get back a :ref:`itemId`. All items are publically readable by anyone.
 
-BlobStore has a rudimentary revisioning system so blobs can be updated while retaining their blobId and revision history.
+Item Store has a rudimentary revisioning system so blobs can be updated while retaining their itemId and revision history.
 
 Google Protocol Buffers
 =======================
