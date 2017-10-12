@@ -4,6 +4,8 @@ Mine MIX
 
 In order to publish content on the MIX network, or execute any kind of transaction, you must spend some MIX. MIX can be obtained either by mining it or by purchasing it.
 
+In order to mine MIX, you will need to have a fully syncronized node as described in :ref:`configuration`.
+
 You need to have a MIX account. If you do not have one already, go to the MIX console and run ``personal.newAccount();``.
 
 Alternatively an Ethereum account can be created with `MyEtherWallet <https://www.myetherwallet.com/>`_ and that can be used for MIX.
