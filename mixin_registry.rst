@@ -14,4 +14,4 @@ MIX has a hierarchical system of mixins. There is a `root mixin <https://github.
 
 Each mixin is identified by an integer, the mixinId. The mixinId for each mixin is issued by the Mixin Registry smart contract. The mixinId of the root mixin is 0.
 
-When creating a new mixin, the `addMixin() <https://github.com/mix-blockchain/mix-mixin-registry/blob/master/src/mix_mixin_registry.sol#L60>`_ method must be called. ``parent`` must be the mixinId of the mixin that is being extending. ``uri`` should be a link to an immuntable commit in a repo that is derived from the parent mixin.
+When creating a new mixin, the `addMixin() <https://github.com/mix-blockchain/mix-mixin-registry/blob/master/src/mixin_registry.sol#L58>`_ method must be called. ``parent`` must be the mixinId of the mixin that is being extending. ``uri`` should be a link to an immuntable commit in a repo that is derived from the parent mixin.
