@@ -37,7 +37,7 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
 Parity
 ------
 
-Install Parity as described here: https://parity.io/parity.html
+Get Parity from https://parity.io/
 
 .. code::
 
