@@ -4,7 +4,11 @@ Events
 Upcoming
 --------
 
-none
+`Anarchapulco <https://anarchapulco.com/>`_ (Gold Sponsor)
+`````````````````````````
+| February 15-18
+| Princess Mundo Imperial
+| Acapulco, Mexico
 
 Previous
 --------
