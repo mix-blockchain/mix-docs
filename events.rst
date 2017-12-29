@@ -1,7 +1,7 @@
 Events
 ######
 
-Upcoming
+2018
 --------
 
 `Anarchapulco <https://anarchapulco.com/>`_ (Gold Sponsor)
@@ -10,7 +10,7 @@ Upcoming
 | Princess Mundo Imperial
 | Acapulco, Mexico
 
-Previous
+2017
 --------
 
 `MIX Blockchain: The successor to the World Wide Web <https://www.meetup.com/Bitcoin-Saigon-Meetup/events/242460720/>`_
