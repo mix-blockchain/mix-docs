@@ -29,10 +29,10 @@ Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Bui
 
 .. code::
 
-    geth --config mix.toml --datadir ~/.mix-geth init genesis.json
-    geth --config mix.toml --datadir ~/.mix-geth --rpc
+    geth --config mix.toml --datadir ~/.mix-blockchain init genesis.json
+    geth --config mix.toml --datadir ~/.mix-blockchain --rpc
     # In a separate terminal launch the console.
-    geth attach ~/.mix-geth/geth.ipc
+    geth attach ~/.mix-blockchain/geth.ipc
 
 Parity
 ------
