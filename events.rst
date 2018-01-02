@@ -10,7 +10,7 @@ Events
 | Princess Mundo Imperial
 | Acapulco, Mexico
 
-`Satoshi's Vision <https://www.satoshisvisionconference.com/>`_ (Submitting paper)
+`Satoshi's Vision <https://www.satoshisvisionconference.com/>`_ (Paper submitted)
 ````````````````
 | March 23-25
 | Tokyo
