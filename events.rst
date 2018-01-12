@@ -10,6 +10,13 @@ Events
 | Princess Mundo Imperial
 | Acapulco, Mexico
 
+MIX Party
+````````
+| Thursday, March 15, 19:00 - 22:00
+| Brick & Mortar Music Hall
+| 1710 Mission St
+| San Francisco
+
 `Satoshi's Vision <https://www.satoshisvisionconference.com/>`_ (Paper submitted)
 ````````````````
 | March 23-25
