@@ -10,14 +10,14 @@ Events
 | Princess Mundo Imperial
 | Acapulco, Mexico
 
-MIX Party
+`MIX Party San Francisco <https://www.eventbrite.com/e/mix-party-san-francisco-tickets-42815753070>`_
 ````````
 | Thursday, March 15, 19:00 - 22:00
 | Brick & Mortar Music Hall
 | 1710 Mission St
 | San Francisco
 
-`Satoshi's Vision <https://www.satoshisvisionconference.com/>`_ (Paper submitted)
+`Satoshi's Vision <https://www.satoshisvisionconference.com/>`_ (attending)
 ````````````````
 | March 23-25
 | Tokyo
