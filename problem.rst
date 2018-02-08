@@ -5,7 +5,7 @@ In Tim Berners-Lee's original vision of the World Wide Web anyone could publish 
 
 Anyone could spin-up a server to publish and anyone with an Internet connection could connect to any server, i.e. it was decentralized.
 
-Over the years this paradym has gradually been eroded with publishing platforms such as Facebook, Twitter, Medium, Reddit, Instagram, YouTube, etc becoming popular. These are highly controlled platforms where the user can become disempowered without any right of recourse. Of course users can still publish on their own servers, but in many ways these platforms offer a lot of advantages over hosting your own website.
+Over the years this paradigm has gradually been eroded with publishing platforms such as Facebook, Twitter, Medium, Reddit, Instagram, YouTube, etc becoming popular. These are highly controlled platforms where the user can become disempowered without any right of recourse. Of course users can still publish on their own servers, but in many ways these platforms offer a lot of advantages over hosting your own website.
 
 Centralized platforms are preventing communities from flourishing in a way that would otherwise be possible.
 
