@@ -71,7 +71,7 @@ On Reddit the content locked into a specific sub-reddit can have a moderator tea
 * shadowbanning
 * 30/7-day bans
 
-A good example of this is what happened on r/Bitcoin: https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43
+A good example of this is `what happened on r/Bitcoin <https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43>`_: 
 
 Lack of history
 ---------------
