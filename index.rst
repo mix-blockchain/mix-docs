@@ -41,6 +41,7 @@ Table of contents
 .. toctree::
    :maxdepth: 2
 
+   vision.rst
    how_does_it_work.rst
    cryptofuel.rst
    issuance.rst
