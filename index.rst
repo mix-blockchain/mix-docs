@@ -42,6 +42,7 @@ Table of contents
    :maxdepth: 2
 
    vision.rst
+   problem.rst
    how_does_it_work.rst
    cryptofuel.rst
    issuance.rst
