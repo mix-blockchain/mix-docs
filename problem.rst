@@ -63,13 +63,13 @@ Moderator powers
 ----------------
 On Reddit the content locked into a specific sub-reddit can have a moderator team with an agenda and powers to enact it:
 
-deletion of comments & hiding the deletion with CSS
-deletion of posts
-deletion of posts about deletion of posts
-deletion of posts about requesting removal of mods (censoring community desire for new filter bubble)
-opportunist adjustment of comment ordering
-shadowbanning
-30/7-day bans
+ * deletion of comments & hiding the deletion with CSS
+ * deletion of posts
+ * deletion of posts about deletion of posts
+ * deletion of posts about requesting removal of mods (censoring community desire for new filter bubble)
+ * opportunist adjustment of comment ordering
+ * shadowbanning
+ * 30/7-day bans
 
 A good example of this is what happened on r/Bitcoin: https://medium.com/@johnblocke/a-brief-and-incomplete-history-of-censorship-in-r-bitcoin-c85a290fe43
 
