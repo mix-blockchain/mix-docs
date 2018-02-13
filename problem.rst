@@ -22,7 +22,7 @@ Liking, voting up/down, etc has become so vital to the content ecosystem. The op
 
 Moderation
 ----------
-Reddit and Facebook groups have become very successful in part becuase of their moderation systems. The open web doesn't have a moderation system, although Google has been filling this role to an extent.
+Reddit and Facebook groups have become very successful in part because of their moderation systems. The open web doesn't have a moderation system, although Google has been filling this role to an extent.
 
 Machine readable data
 ---------------------
