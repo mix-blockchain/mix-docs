@@ -74,5 +74,7 @@ Windows
 
 There is great a tutorial for mining MIX with Claymore on Windows: https://klmoney.wordpress.com/link-blockchain-windows-gpu-mining/
 
-Note that at the time this tutorial was written, MIX was called LINK.
+Mining Pools
+############
 
+`MINERPOOL.NET <http://mix.minerpool.net>`_
