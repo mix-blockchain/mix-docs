@@ -78,4 +78,4 @@ Mining Pools
 ############
 
 * `MINERPOOL.NET <http://mix.minerpool.net>`_
-* `EncryptGlobe <https://mix.encryptglobe.com>`_
+* `ΞncryptGlobe <https://mix.encryptglobe.com>`_
