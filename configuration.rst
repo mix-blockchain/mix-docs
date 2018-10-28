@@ -8,37 +8,23 @@ Network ID: 76
 
 Chain ID: 76
 
-Port: 30313
-
-RPC Port: 8645
-
-WS Port: 8646
-
-RPC TLS Port: 8647
-
-.. code::
-
-    git clone https://github.com/mix-blockchain/mix-blockchain.git
-
 MIX Blockchain can be synchronized with either Geth or Parity:
-
-Geth
-----
-
-Install Geth as described here: https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum
-
-.. code::
-
-    geth --config mix.toml --datadir ~/.mix-geth init genesis.json
-    geth --config mix.toml --datadir ~/.mix-geth --rpc
-    # In a separate terminal launch the console.
-    geth attach ~/.mix-geth/geth.ipc
 
 Parity
 ------
 
-Get Parity from https://parity.io/
+Get Parity from https://www.parity.io/ethereum/
+Download the MIX chain specification: https://github.com/mix-blockchain/mix-blockchain/releases/download/v2.0.0/mix.json
 
 .. code::
 
-    parity --chain mix.json --port 30313 --jsonrpc-port 8645 --geth
+    parity --chain mix.json
+
+Geth
+----
+
+Download MIX Multi-geth: https://github.com/mix-blockchain/multi-geth/releases/tag/v1.8.17
+
+.. code::
+
+    geth --mix
