@@ -51,6 +51,7 @@ Table of contents
    light_client.rst
    smart_contracts.rst
    mine.rst
+   purchase.rst
    events.rst
    contact.rst
 
