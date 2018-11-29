@@ -23,8 +23,16 @@ Download the MIX chain specification: https://github.com/mix-blockchain/mix-bloc
 Geth
 ----
 
-Download MIX Multi-geth: https://github.com/mix-blockchain/multi-geth/releases/tag/v1.8.17
+Download MIX Multi-geth: https://github.com/mix-blockchain/multi-geth/releases
+
+You might need to make the file executable, i.e.
 
 .. code::
 
-    geth --mix
+    chmod +x mix-geth-linux
+
+Use the parameter --mix, i.e.
+
+.. code::
+
+    ./mix-geth-linux --mix
