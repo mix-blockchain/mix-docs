@@ -20,7 +20,7 @@ Download the MIX chain specification: https://github.com/mix-blockchain/mix-bloc
 
     parity --chain mix.json --pruning=fast --pruning-history=64 --pruning-memory=0
     
-The pruning options are essential to prevent a 51% attack.
+The pruning options are essential to mitigate the risk of a 51% attack.
 
 Geth
 ----
