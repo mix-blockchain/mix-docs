@@ -8,7 +8,7 @@ Network ID: 76
 
 Chain ID: 76
 
-MIX Blockchain can be synchronized with either Geth or Parity:
+MIX Blockchain can be synchronized with either Parity or MIX Geth:
 
 Parity
 ------
