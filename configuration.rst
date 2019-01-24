@@ -18,7 +18,8 @@ Download the MIX chain specification: https://github.com/mix-blockchain/mix-bloc
 
 .. code::
 
-    parity --chain mix.json --pruning=fast --pruning-history=64 --pruning-memory=0
+    chmod +x parity
+    ./parity --chain mix.json --pruning=fast --pruning-history=64 --pruning-memory=0
     
 The pruning options are essential to mitigate the risk of a 51% attack.
 
@@ -26,8 +27,6 @@ Geth
 ----
 
 Download MIX Geth: https://github.com/mix-blockchain/mix-geth/releases
-
-You might need to make the file executable before you can run it, i.e.
 
 .. code::
 
