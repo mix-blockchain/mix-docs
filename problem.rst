@@ -18,7 +18,7 @@ Most successful publishing platforms rely on some form of social organization - 
 
 Voting
 ------
-Liking, voting up/down, etc has become so vital to the content ecosystem. The open web has never really had this soft of functionality become popular.
+Liking, voting up/down, etc has become so vital to the content ecosystem. The open web has never really had this sort of functionality become popular.
 
 Moderation
 ----------
