@@ -4,7 +4,7 @@
 Issuance
 ########
 
-Project revenue of 55 million MIX (equivalent to 5 years of mining) is pre-allocated into the :ref:`revenue` smart contract. It will release it over 2000 days at a rate that decreases every 200 days.
+Project revenue of 55 million MIX (equivalent to 5 years of mining) is pre-allocated into the `revenue <https://github.com/mix-blockchain/mix-revenue/blob/c8f1e996ceaa9ae879de610510f6d44a253d373b/link_revenue.sol>`_ smart contract. It will release it over 2000 days at a rate that decreases every 200 days.
 
 The purpose of the revenue is to provide funds for re-investment into the MIX ecosystem and to provide profit for the developer.
 
