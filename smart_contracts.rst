@@ -4,6 +4,7 @@ Smart contracts
 The following smart contracts were compiled with Solidity 0.5.10:
 
 ::
+
    solc --evm-version byzantium --optimize --optimize-runs 10000
 
    MixItemStoreRegistry
