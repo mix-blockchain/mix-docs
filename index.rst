@@ -52,7 +52,6 @@ Table of contents
    smart_contracts.rst
    mine.rst
    purchase.rst
-   events.rst
    contact.rst
 
 Indices and tables
