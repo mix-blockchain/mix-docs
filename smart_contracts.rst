@@ -88,8 +88,13 @@ The following smart contracts were compiled with Solidity 0.5.10:
    0xd7051cd496a3a8373f9cf89476c04a7d51a5cc88
 
 
-.. toctree::
-   :maxdepth: 2
+`LinkRevenue <https://github.com/mix-blockchain/mix-revenue/blob/c8f1e996ceaa9ae879de610510f6d44a253d373b/link_revenue.sol>`_
+----
 
-   revenue.rst
-   
+::
+
+   0x97c7f4f8f0bbf384578a9f5754ae73f37ff49ec2
+
+This contract was compiled with Solidity 0.4.10 with optimizations enabled.
+
+See :ref:`issuance` for more information.
