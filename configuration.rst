@@ -14,12 +14,11 @@ Parity
 ------
 
 Get Parity from https://www.parity.io/ethereum/
-Download the MIX chain specification: https://github.com/mix-blockchain/mix-blockchain/releases/download/v2.1.0/mix.json
 
 .. code::
 
     chmod +x parity
-    ./parity --chain mix.json --pruning=fast --pruning-history=64 --pruning-memory=0
+    ./parity --chain mix --pruning=fast --pruning-history=64 --pruning-memory=0
     
 The pruning options are essential to mitigate the risk of a 51% attack.
 
