@@ -44,7 +44,6 @@ Table of contents
    vision.rst
    problem.rst
    how_does_it_work.rst
-   cryptofuel.rst
    issuance.rst
    configuration.rst
    filter_bubbles.rst
