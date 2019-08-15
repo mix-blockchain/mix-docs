@@ -77,5 +77,4 @@ There is great a tutorial for mining MIX with Claymore on Windows: https://klmon
 Mining Pools
 ############
 
-* `MINERPOOL.NET <http://mix.minerpool.net>`_
-* `ΞncryptGlobe <https://mix.encryptglobe.com>`_
+MIX mining pools can be found at https://www.mix-blockchain.org/
