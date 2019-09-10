@@ -127,7 +127,7 @@ Smart contracts
 ::
 
    solc version: 0.4.10
-   solc parameters: --evm-version byzantium --optimize
+   solc parameters: --optimize
    contract: 0x97c7f4f8f0bbf384578a9f5754ae73f37ff49ec2
 
 See :ref:`issuance` for more information.
