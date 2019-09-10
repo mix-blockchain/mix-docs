@@ -131,6 +131,14 @@ Smart contracts
    contract: 0x5402efb80b307250b978cb1039a95e0c292b50c2
 
 
+`UniswapFactory <https://github.com/Uniswap/contracts-vyper/blob/c10c08d81d6114f694baa8bd32f555a40f6264da/contracts/uniswap_factory.vy>`_
+----
+
+::
+
+   contract: 0x1381a70fc605b7d7e54b7e1159afba1429a4bbb1
+
+
 `LinkRevenue <https://github.com/mix-blockchain/mix-revenue/blob/c8f1e996ceaa9ae879de610510f6d44a253d373b/link_revenue.sol>`_
 ----
 
