@@ -131,6 +131,14 @@ Smart contracts
    contract: 0x5402efb80b307250b978cb1039a95e0c292b50c2
 
 
+`UniswapExchange <https://github.com/Uniswap/contracts-vyper/blob/c10c08d81d6114f694baa8bd32f555a40f6264da/contracts/uniswap_exchange.vy>`_
+----
+
+::
+
+   contract: 0x82c1eb1140068a71d6905a78faf66c0fe9863531
+
+
 `UniswapFactory <https://github.com/Uniswap/contracts-vyper/blob/c10c08d81d6114f694baa8bd32f555a40f6264da/contracts/uniswap_factory.vy>`_
 ----
 
