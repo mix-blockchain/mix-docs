@@ -121,6 +121,16 @@ Smart contracts
    contract: 0xd7051cd496a3a8373f9cf89476c04a7d51a5cc88
 
 
+`MixTokenRegistry <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/MixTokenRegistry.sol>`_
+----
+
+::
+
+   solc version: 0.5.10
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+   contract: 0x5402efb80b307250b978cb1039a95e0c292b50c2
+
+
 `LinkRevenue <https://github.com/mix-blockchain/mix-revenue/blob/c8f1e996ceaa9ae879de610510f6d44a253d373b/link_revenue.sol>`_
 ----
 
