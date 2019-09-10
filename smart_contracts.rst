@@ -156,4 +156,20 @@ Smart contracts
    solc parameters: --optimize
    contract: 0x97c7f4f8f0bbf384578a9f5754ae73f37ff49ec2
 
+`MixAccount (Acuity v1.0.0) <https://github.com/mix-blockchain/mix-account/blob/724b17c6f09206980a892b565662fedf882d1c80/src/MixAccount.sol>`_
+----
+
+::
+
+   solc version: 0.5.10
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+
+`MixAccount (Acuity v1.0.3) <https://github.com/mix-blockchain/mix-account/blob/3879d2c9fe9fa96481255d2f4ac2ef170f65b9f5/src/MixAccount.sol>`_
+----
+
+::
+
+   solc version: 0.5.10
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+
 See :ref:`issuance` for more information.
