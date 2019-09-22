@@ -131,6 +131,15 @@ Smart contracts
    contract: 0x5402efb80b307250b978cb1039a95e0c292b50c2
 
 
+`CreatorToken <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
+----
+
+::
+
+   solc version: 0.5.10
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+
+
 `UniswapExchange <https://github.com/Uniswap/contracts-vyper/blob/c10c08d81d6114f694baa8bd32f555a40f6264da/contracts/uniswap_exchange.vy>`_
 ----
 
