@@ -131,6 +131,16 @@ Smart contracts
    contract: 0x5402efb80b307250b978cb1039a95e0c292b50c2
 
 
+`MixTokenBurn <https://github.com/mix-blockchain/mix-token/blob/7e87bd1cd13c699bbc3632a8fc15326d920602f2/src/MixTokenBurn.sol>`_
+----
+
+::
+
+   solc version: 0.5.11
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+   contract: 0x6e3d6f2c462278dc21882554e9de333168c34b5a
+
+
 `CreatorToken <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
 ----
 
