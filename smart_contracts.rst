@@ -141,12 +141,22 @@ Smart contracts
    contract: 0x6e3d6f2c462278dc21882554e9de333168c34b5a
 
 
-`CreatorToken <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
+`CreatorToken (Acuity v1.0.5)<https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
 ----
 
 ::
 
    solc version: 0.5.10
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+
+
+`CreatorToken (Acuity v1.0.8)<https://github.com/mix-blockchain/mix-token/blob/7e87bd1cd13c699bbc3632a8fc15326d920602f2/src/CreatorToken.sol>`_
+----
+
+::
+
+   ERC-165: 0x23fb80f7 (MixTokenInterface)
+   solc version: 0.5.11
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
 
 
@@ -177,7 +187,7 @@ Smart contracts
 
 See :ref:`issuance` for more information.
 
-`MixAccount (Acuity v1.0.0) <https://github.com/mix-blockchain/mix-account/blob/724b17c6f09206980a892b565662fedf882d1c80/src/MixAccount.sol>`_
+`MixAccount (Acuity v1.0.0)<https://github.com/mix-blockchain/mix-account/blob/724b17c6f09206980a892b565662fedf882d1c80/src/MixAccount.sol>`_
 ----
 
 ::
@@ -185,7 +195,7 @@ See :ref:`issuance` for more information.
    solc version: 0.5.10
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
 
-`MixAccount (Acuity v1.0.3) <https://github.com/mix-blockchain/mix-account/blob/3879d2c9fe9fa96481255d2f4ac2ef170f65b9f5/src/MixAccount.sol>`_
+`MixAccount (Acuity v1.0.3)<https://github.com/mix-blockchain/mix-account/blob/3879d2c9fe9fa96481255d2f4ac2ef170f65b9f5/src/MixAccount.sol>`_
 ----
 
 ::
