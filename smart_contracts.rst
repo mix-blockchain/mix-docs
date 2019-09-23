@@ -141,7 +141,7 @@ Smart contracts
    contract: 0x6e3d6f2c462278dc21882554e9de333168c34b5a
 
 
-`CreatorToken (Acuity v1.0.5) <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
+`MixCreatorToken (Acuity v1.0.5) <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
 ----
 
 ::
@@ -150,7 +150,7 @@ Smart contracts
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
 
 
-`CreatorToken (Acuity v1.0.8) <https://github.com/mix-blockchain/mix-token/blob/7e87bd1cd13c699bbc3632a8fc15326d920602f2/src/CreatorToken.sol>`_
+`MixCreatorToken (Acuity v1.0.8) <https://github.com/mix-blockchain/mix-token/blob/534f07b45d3f8f8c49f23da525c0ffedf5d01493/src/MixCreatorToken.sol>`_
 ----
 
 ::
