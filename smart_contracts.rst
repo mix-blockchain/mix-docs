@@ -52,7 +52,7 @@ Smart contracts
    contract: 0x622d9bd5adf631c6e190f8d2beebcd5533ffa5e6   - feed items
 
 
-`MixItemTopcs <https://github.com/mix-blockchain/mix-item-topics/blob/24deaec984414d51f41b283ae39b7486a52caed9/src/MixItemTopics.sol>`_
+`MixItemTopics <https://github.com/mix-blockchain/mix-item-topics/blob/24deaec984414d51f41b283ae39b7486a52caed9/src/MixItemTopics.sol>`_
 ----
 
 ::
@@ -60,6 +60,16 @@ Smart contracts
    solc version: 0.5.11
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
    contract: 0xcc64d1519d4e2be2b025204f5b3470d5f14a1a99
+
+
+`MixItemMentions <https://github.com/mix-blockchain/mix-item-mentions/blob/b3ca32b0855d55c6608a353bbc9ac7dcc7cc9145/src/MixItemMentions.sol>`_
+----
+
+::
+
+   solc version: 0.5.11
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+   contract: 0xed279A14f93dDF8dCE9A73B4b281687051214E87
 
 
 `MixAccountRegistry <https://github.com/mix-blockchain/mix-account/blob/724b17c6f09206980a892b565662fedf882d1c80/src/MixAccountRegistry.sol>`_
