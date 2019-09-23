@@ -212,3 +212,13 @@ See :ref:`issuance` for more information.
 
    solc version: 0.5.10
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+
+
+`MixAccount (Acuity v1.0.7) <https://github.com/mix-blockchain/mix-account/blob/83ca5dbfaa814b5df703410f3820b57524d27aff/src/MixAccount.sol>`_
+----
+
+::
+
+   ERC-165: 0x527f66d8 (MixAccountInterface), 0x4e2312e0 (ERC1155TokenReceiver)
+   solc version: 0.5.11
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
