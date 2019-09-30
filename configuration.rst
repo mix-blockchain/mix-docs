@@ -8,7 +8,9 @@ Network ID: 76
 
 Chain ID: 76
 
-MIX Blockchain can be synchronized with either Parity or MIX Geth:
+MIX Blockchain can be synchronized with either Parity or MIX Geth.
+
+When receiving a large deposit it is essential to wait for 64 blocks before considering it as finalized.
 
 Parity
 ------
