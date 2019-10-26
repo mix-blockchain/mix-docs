@@ -99,17 +99,17 @@ Smart contracts
 
    solc version: 0.5.10
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
-   contract: 0xc9ba9507d9f5be1d13ff2dca6f7e43dbfa859645   - account feeds
+   contract: 0xc9ba9507d9f5be1d13ff2dca6f7e43dbfa859645 - account feeds
 
 
-`MixAccountItems 1.1 <https://github.com/mix-blockchain/mix-account-items/blob/fc1f7a4689b523a74840a1dafa21c2fc43aa13cc/src/MixAccountItems.sol>`_
+`MixAccountItems 1.2 <https://github.com/mix-blockchain/mix-account-items/blob/46a84ecd5a9ba19e3e6c57d676917f37b2843f18/src/MixAccountItems.sol>`_
 ----
 
 ::
 
-   solc version: 0.5.10
+   solc version: 0.5.11
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
-   contract: 0xa2f0d67eb4e6e33d568f25ce9cb8226e9032e9d1  - account tokens
+   contract: 0xb0b4e45fa5b19383657ffdc2166cbd92a2aeff83 - account tokens
 
 `MixTrustedAccounts <https://github.com/mix-blockchain/mix-trusted-accounts/blob/1674184959a530a13409900cc2378ba4569d5482/src/MixTrustedAccounts.sol>`_
 ----
