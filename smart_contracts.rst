@@ -55,6 +55,8 @@ Smart contracts
 `MixItemDagOneParentOnlyOwner <https://github.com/mix-blockchain/mix-item-dag/blob/bd78009c9095eff9fee78329d2ba5004b946192c/src/MixItemDagOneParentOnlyOwner.sol>`_
 ----
 
+Maintains bidirectional connection between content and the token that should be burned to endorse it.
+
 ::
 
    solc version: 0.5.11
@@ -149,18 +151,6 @@ Smart contracts
    solc version: 0.5.10
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
    contract: 0x5402efb80b307250b978cb1039a95e0c292b50c2
-
-
-`MixItemDagOneParent <https://github.com/mix-blockchain/mix-item-dag/blob/3ffb231ba748d0f5a9d4601bf652cf625507d0c0/src/MixItemDagOneParent.sol>`_
-----
-
-Maintains bidirectional connection between content and the token that should be burned to endorse it.
-
-::
-
-   solc version: 0.5.11
-   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
-   contract: 0xa87192bab01720e4feaaafd3922b959497220db9
 
 
 `MixTokenBurn <https://github.com/mix-blockchain/mix-token/blob/7e87bd1cd13c699bbc3632a8fc15326d920602f2/src/MixTokenBurn.sol>`_
