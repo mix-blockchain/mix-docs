@@ -153,14 +153,14 @@ Maintains bidirectional connection between content and the token that should be 
    contract: 0x27e21076d763fc4a83bb3a220369d27f67d6767f
 
 
-`MixTokenBurn <https://github.com/mix-blockchain/mix-token/blob/7e87bd1cd13c699bbc3632a8fc15326d920602f2/src/MixTokenBurn.sol>`_
+`MixTokenBurn <https://github.com/mix-blockchain/mix-token/blob/afe40c86fd43d44f8a9ec9e29082b72a05d29e34/src/MixTokenBurn.sol>`_
 ----
 
 ::
 
-   solc version: 0.5.11
+   solc version: 0.5.12
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
-   contract: 0x6e3d6f2c462278dc21882554e9de333168c34b5a
+   contract: 0x8f7e10a2a7255cc90720d34ccd3a649cac91c3de
 
 
 `MixCreatorToken (Acuity v1.0.5) <https://github.com/mix-blockchain/mix-token/blob/da4f1788af97b8828d5dd6ab65ef7bc3deec7dd5/src/CreatorToken.sol>`_
