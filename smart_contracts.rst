@@ -182,6 +182,15 @@ Maintains bidirectional connection between content and the token that should be 
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
 
 
+`MixCreatorToken (Acuity v1.1.0) <https://github.com/mix-blockchain/mix-token/blob/afe40c86fd43d44f8a9ec9e29082b72a05d29e34/src/MixCreatorToken.sol>`_
+----
+
+::
+
+   ERC-165: 0xa66762eb (MixTokenInterface), 0x8da5cb5b (MixTokenOwnedInterface), 0xd6559ea1 (MixCreatorToken)
+   solc version: 0.5.12
+   solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
+
 `UniswapExchange <https://github.com/Uniswap/contracts-vyper/blob/c10c08d81d6114f694baa8bd32f555a40f6264da/contracts/uniswap_exchange.vy>`_
 ----
 
