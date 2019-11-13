@@ -104,7 +104,7 @@ Maintains bidirectional connection between content and the token that should be 
    contract: 0x994abe0212b5dcc1fb0b0e7336e7980316c3fe19
 
 
-`MixAccountItems 1.0 <https://github.com/mix-blockchain/mix-account-items/blob/855cffdd0ca771fbc0a4d92c0f89034f535ed087/src/MixAccountItems.sol>`_
+`MixAccountItems <https://github.com/mix-blockchain/mix-account-items/blob/855cffdd0ca771fbc0a4d92c0f89034f535ed087/src/MixAccountItems.sol>`_
 ----
 
 ::
@@ -114,14 +114,14 @@ Maintains bidirectional connection between content and the token that should be 
    contract: 0xc9ba9507d9f5be1d13ff2dca6f7e43dbfa859645 - account feeds
 
 
-`MixAccountItems 1.2 <https://github.com/mix-blockchain/mix-account-items/blob/46a84ecd5a9ba19e3e6c57d676917f37b2843f18/src/MixAccountItems.sol>`_
+`MixAccountItems <https://github.com/mix-blockchain/mix-account-items/blob/b7bc22e148e0950fdd2282234ea6b7498a450560/src/MixAccountItems.sol>`_
 ----
 
 ::
 
-   solc version: 0.5.11
+   solc version: 0.5.12
    solc parameters: --evm-version byzantium --optimize --optimize-runs 10000
-   contract: 0xb0b4e45fa5b19383657ffdc2166cbd92a2aeff83 - account tokens
+   contract: 0xcea97006bb67782e7c4d70246a23b048c2029c90 - account tokens
 
 `MixTrustedAccounts <https://github.com/mix-blockchain/mix-trusted-accounts/blob/1674184959a530a13409900cc2378ba4569d5482/src/MixTrustedAccounts.sol>`_
 ----
